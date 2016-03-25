@@ -1,0 +1,3 @@
+ifconfig eth0 172.16.0.26 netmask 255.255.255.252 broadcast 172.16.0.27 up
+
+route add default gw 172.16.0.25 dev eth0
