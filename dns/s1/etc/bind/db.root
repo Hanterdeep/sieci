@@ -1,0 +1,15 @@
+$TTL   60000
+@               IN      SOA     .    root. (
+                        2016050501 ; serial
+                        28800 ; refresh
+                        14400 ; retry
+                        3600000 ; expire
+                        0 ; negative cache ttl
+                        )
+
+@               IN      NS      ns.
+ns		IN	A	10.0.2.2
+r1a		IN	A	10.0.1.1
+r1b		IN	A	10.0.2.1
+workstation1	IN	A	10.0.1.2
+workstation2	IN	A	10.0.1.3
