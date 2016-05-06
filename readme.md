@@ -5,7 +5,8 @@
 * Zadanie 1-1. - Trasowanie statyczne w sieci złożonej z pięciu podsieci (klasa adresów 172.16);
 * Zadanie 2.   - Trasowanie statyczne i dynamiczne w sieci złożonej z 10 podsieci;
 * Kolokwium - Połączenie trasowania dynamicznego ze statycznym;
-* DHCP - konfiguracja servera DHCP dla dwóch podsieci;
+* DHCP - konfiguracja serwera usługi DHCP dla dwóch podsieci;
+* DNS - konfiguracja serwera usługi DNS;
 
 ---
 (C)Kamil Pek - 2016
