@@ -1,5 +1,5 @@
-ifconfig eth0 192.168.3.2 netmask 255.255.255.0 broadcast 192.168.3.255 up
+ifconfig eth0 168.54.15.2 netmask 255.255.255.128 broadcast 168.54.15.127 up
 
-route add default gw 192.168.3.1 dev eth0
+route add default gw 168.54.15.1 dev eth0
 
 /etc/init.d/bind start
